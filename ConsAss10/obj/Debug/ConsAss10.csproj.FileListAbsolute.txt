@@ -1,0 +1,7 @@
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAss10\ConsAss10\bin\Debug\ConsAss10.exe.config
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAss10\ConsAss10\bin\Debug\ConsAss10.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAss10\ConsAss10\bin\Debug\ConsAss10.pdb
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAss10\ConsAss10\obj\Debug\ConsAss10.csproj.AssemblyReference.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAss10\ConsAss10\obj\Debug\ConsAss10.csproj.CoreCompileInputs.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAss10\ConsAss10\obj\Debug\ConsAss10.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAss10\ConsAss10\obj\Debug\ConsAss10.pdb
